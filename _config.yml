@@ -23,7 +23,7 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.JPG"
+  avatar           : "profile_720.jpg"
   name             : "Dingjie Liu"
   pronouns         : # example: "she/her"  
   bio              : "PhD student in computer science at the University of Tokyo"
