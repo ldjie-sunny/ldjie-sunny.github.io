@@ -9,7 +9,9 @@ redirect_from:
 
 Hi! This is Dingjie Liu (刘丁杰). I am a Ph.D. student in computer science at the University of Tokyo, advised by Professor [Hayata Yamasaki](https://sites.google.com/view/hayatayamasaki). My research sits at the intersection of quantum error correction, formal verification, and machine learning.
 
-Prior to my Ph.D., I spent seven years working as an algorithm engineer of AI and HPC in industry in China. I obtained my Bachelor of Engineering and Master of Science at Harbin Institute of Technology and Purdue University respectivly.
+Update
+======
+* 2026.9: Passed the Entrance Examination and was admitted as a doctoral student at the University of Tokyo.
 
 <!-- This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the repository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. Incidentally, these same features make it a great template for anyone that needs to show off a professional template!
 
